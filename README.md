@@ -275,15 +275,18 @@ This project demonstrates understanding of:
 
 ### Scene Overview
 ![Top-down view of the 3D scene showing objects with lighting and shadows]
+<img width="976" height="528" alt="shader01" src="https://github.com/user-attachments/assets/73febb49-37b0-4932-8591-0ca4644d1c25" />
+
 
 ### Fire Particle Effect
-![Close-up of the particle-based fire effect with flame animation]
+<img width="694" height="756" alt="shader02" src="https://github.com/user-attachments/assets/90971daf-c301-4a67-860f-3c1febdaf904" />
 
 ### Greyscale Post-Processing
-![Scene rendered with greyscale filter demonstrating color removal]
+![Scene render<img width="1038" height="541" alt="shader03" src="https://github.com/user-attachments/assets/2f043df7-0d1d-4d7e-8d8f-442b46ffef06" />
+ed with greyscale filter demonstrating color removal]
 
 ### Shadow Casting
-![Objects casting shadows demonstrating shadow mapping technique]
+
 
 *[Add your actual screenshots here]*
 
